@@ -25,3 +25,5 @@ We envision a future where music creators around the world can collaborate in re
 ## Contract Details
 
 _(To be filled manually by Judy)_
+![Screenshot 2025-06-20 121638](https://github.com/user-attachments/assets/6cfd9e2e-7d13-417a-adda-d3bc8a51c3d8)
+
